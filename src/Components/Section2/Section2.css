@@ -1,0 +1,32 @@
+
+/*@media (max-width:1366px) {
+	.teamBackground{
+		height: unset !important;	
+	}
+}
+*/
+
+.section2{
+	/*height: 100vh;*/
+	color: black;
+	background-position: relative;
+	padding-top: 1px;	
+}
+
+
+.title{
+	margin-top: 10vh;
+	text-align: center;
+	font-size: 5vh;
+	font-weight: bold;
+	margin-right: 0.8vh;
+	margin-left: 0.8vh;
+}
+
+
+
+
+
+
+
+

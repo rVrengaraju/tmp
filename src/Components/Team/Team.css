@@ -1,0 +1,54 @@
+.teamBackground{
+	background-color: #efb2c0;/*rgb(230, 181, 192);*/
+	background-position: relative;
+	padding-top: 1px;	
+	color: white;
+	text-align: center;
+}
+
+.teamTitle{
+	
+	/*margin-top: 10vh;*/
+	font-size: 5vh;
+	font-weight: bold;
+}
+
+.grid{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	/*padding-bottom: 10vh;*/
+	font-size: 2.6vh;
+	margin-top: 4vh;
+}
+
+.card{
+	padding-left: 6vh;
+	padding-right: 6vh;
+	margin-bottom: 2vh;
+}
+
+.photo{
+	max-height: 150px;
+	max-width: 200px;
+	width: 120px;
+	height: 120px;
+	border-radius: 100%;
+	border: 4px solid #f0768f;
+	transition: 0.3s;
+}
+
+.photo:hover{
+	transform: scaleY(1.1) scaleX(1.1);
+}
+
+.photoName{
+	margin-top: 1.1vh;
+	font-weight: bold;
+}
+
+.photoTitle{
+	font-style: italic;
+}
+
+

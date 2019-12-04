@@ -1,0 +1,22 @@
+.companyCardName{
+	text-align: center;
+	margin-top: 10vh;
+	font-weight: bold;
+	font-size: 7vh;
+	font-style: oblique;
+}
+
+
+.companyCardText{
+	margin-top: 10vh;
+	font-size: 3vh;
+	padding-left: 20vh;
+	padding-right: 20vh;
+	line-height: 5vh;
+	padding-bottom: 21vh;
+}
+
+.companyCardLink{
+	color:red;
+	font-weight: bold;
+}
