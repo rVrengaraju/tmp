@@ -10,7 +10,7 @@ class First extends Component {
 				<div className="words" href=""><div>STARTUP</div> <div>LABS</div></div>
 				<a href="https://forms.gle/8QZcVtWkMVJhULej8" target="_blank" rel="noopener noreferrer">
 					<div className="apply_button">
-						APPLY NOW!
+						APPLY NOW
 					</div>
 				</a>
 			</div>
